@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @KyleK1782, Kyle Knobloch
-- 👀 I’m interested in Computer Science and how computers communicate with each outher! 
-- 🌱 I’m currently studying Computer Science, Network Computing Stream with a Minor in American Sign Language @ Carleton University, Ottawa Canada
-- 📫 me [at] kyleknobloch.ca
+👋 Hi, I’m @KyleK1782, [Kyle Knobloch](https://kyleknobloch.ca)</h1>
+
+- 👀 I’m interested in Computer Science and how computers communicate with each outher!
+- 🏫 I graduated with a Batchelor of Computer Science Honors, Network Computing Stream with a Minor in American Sign Language @ Carleton University, Ottawa, Canada
+- ‍💼 I am currently a Jr. Linux Sysadmin working on network design, automating software deployments with Puppet, Docker deployments, and more!
+
+📫 [me@kyleknobloch.ca](mailto:me@kyleknobloch.ca)
+
+💬 [LinkedIn](https://www.linkedin.com/in/kylejknobloch/) 
 
 <!---
 KyleK1782/KyleK1782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
