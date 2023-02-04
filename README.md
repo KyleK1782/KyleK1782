@@ -1,4 +1,4 @@
-👋 Hi, I’m @KyleK1782, [Kyle Knobloch](https://kyleknobloch.ca)</h1>
+### 👋 Hi, I’m @KyleK1782, [Kyle Knobloch](https://kyleknobloch.ca)</h1>
 
 - 👀 I’m interested in Computer Science and how computers communicate with each outher!
 - 🏫 I graduated with a Batchelor of Computer Science Honors, Network Computing Stream with a Minor in American Sign Language @ Carleton University, Ottawa, Canada
